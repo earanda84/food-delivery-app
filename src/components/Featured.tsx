@@ -19,7 +19,7 @@ const Featured = () => {
               <h1 className='text-xl font-bold uppercase xl:text-2xl 2xl:text-3xl'>{item.title}</h1>
               <p className='p-4 2xl:p-8'>{item.desc}</p>
               <span className='text-xl font-bold'>${item.price}</span>
-              <button className='bg-amber-500 text-white p-2 rounded-md'>ADD to CART</button>
+              <button className='bg-amber-500 text-white p-2 rounded-md'>Agregar al carrito</button>
             </div>
           </div>
         ))

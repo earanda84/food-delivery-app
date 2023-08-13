@@ -28,7 +28,7 @@ const Navbar = () => {
           <span>+569 9999 9999</span>
         </div>
         {!user ?(<Link href={'/'}>Login</Link>):
-        (<Link href={'/menu'}>Orders</Link>)}
+        (<Link href={'/menu'}>Ordenes</Link>)}
         <CartIcon />
       </div>
     </div>

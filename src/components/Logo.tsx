@@ -8,7 +8,7 @@ const Logo = () => {
     <div className='font-bold'>
     <Link href={'/'}>
       {/* <Image src={'/logo-fregor.png'} alt='' width={80} height={80}/> */}
-      <p>Fregor Frutos Secos</p>
+      <p>Fregor</p>
     </Link>
   </div>
   )
